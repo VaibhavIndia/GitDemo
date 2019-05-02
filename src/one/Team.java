@@ -13,5 +13,6 @@ public class Team {
        System.out.println(myTeam.member.getType());
        System.out.println(myTeam.member.getLevel());
        System.out.println(myTeam.member.getRank());
+       System.out.println("hi")
     }
 }
